@@ -52,8 +52,11 @@ Que crearan a los supervisores y algunos empleados
 
 - Ahora esta todo listo para empezar a probar las apis por Postman 😁
 
-Deje algunos json para probar , añadiendo empleados , viendo todos los empleados, editando, viendo que supervisores tienen a cargo quien ,etc.
+PD: quizas te de un error al mandar a una persona.... hay que intentarlo varias veces y funciona ... no tengo idea que pasa🥲
 
+Si gustas puedes importar un json que deje en la carpeta para probar , añadiendo empleados , viendo todos los empleados, editando, viendo que supervisores tienen a cargo quien ,etc.
+
+No alcance a hacer que en la tabla se viera si es o no supervisor
 Lamento que no sea tan **pro** aun 😥
 
 
